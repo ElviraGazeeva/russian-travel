@@ -1,0 +1,11 @@
+.root {
+  max-width: 1440px;
+  margin: auto;
+  font-family: 'Inter';
+  -webkit-font-smoothing: antialiased; /* сглаживание */
+  -moz-osx-font-smoothing: grayscale; /* сглаживание */
+  /* пропорциональное изменение размера шрифта при изменении масштаба страницы */
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+}
