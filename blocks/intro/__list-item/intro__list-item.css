@@ -1,0 +1,5 @@
+.intro__list-item {
+  display: flex;
+  gap: 3px;
+  margin: 0;
+}
